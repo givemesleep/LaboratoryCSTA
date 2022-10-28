@@ -1,0 +1,10 @@
+c:\users\pc-18\documents\visual studio 2013\Projects\VB_Bellen\VB_Bellen\bin\Debug\VB_Bellen.exe.config
+c:\users\pc-18\documents\visual studio 2013\Projects\VB_Bellen\VB_Bellen\bin\Debug\VB_Bellen.exe
+c:\users\pc-18\documents\visual studio 2013\Projects\VB_Bellen\VB_Bellen\bin\Debug\VB_Bellen.pdb
+c:\users\pc-18\documents\visual studio 2013\Projects\VB_Bellen\VB_Bellen\bin\Debug\VB_Bellen.xml
+c:\users\pc-18\documents\visual studio 2013\Projects\VB_Bellen\VB_Bellen\obj\Debug\VB_Bellen.frmproduct.resources
+c:\users\pc-18\documents\visual studio 2013\Projects\VB_Bellen\VB_Bellen\obj\Debug\VB_Bellen.Resources.resources
+c:\users\pc-18\documents\visual studio 2013\Projects\VB_Bellen\VB_Bellen\obj\Debug\VB_Bellen.vbproj.GenerateResource.Cache
+c:\users\pc-18\documents\visual studio 2013\Projects\VB_Bellen\VB_Bellen\obj\Debug\VB_Bellen.exe
+c:\users\pc-18\documents\visual studio 2013\Projects\VB_Bellen\VB_Bellen\obj\Debug\VB_Bellen.xml
+c:\users\pc-18\documents\visual studio 2013\Projects\VB_Bellen\VB_Bellen\obj\Debug\VB_Bellen.pdb
