@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2012\Projects\prjCRUD22\prjCRUD22\bin\Debug\prjCRUD22.exe.config
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\prjCRUD22\prjCRUD22\obj\Debug\prjCRUD22.frmCRUD.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\prjCRUD22\prjCRUD22\obj\Debug\prjCRUD22.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\prjCRUD22\prjCRUD22\obj\Debug\prjCRUD22.vbproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\prjCRUD22\prjCRUD22\bin\Debug\prjCRUD22.exe
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\prjCRUD22\prjCRUD22\bin\Debug\prjCRUD22.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\prjCRUD22\prjCRUD22\bin\Debug\prjCRUD22.xml
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\prjCRUD22\prjCRUD22\obj\Debug\prjCRUD22.exe
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\prjCRUD22\prjCRUD22\obj\Debug\prjCRUD22.xml
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\prjCRUD22\prjCRUD22\obj\Debug\prjCRUD22.pdb
