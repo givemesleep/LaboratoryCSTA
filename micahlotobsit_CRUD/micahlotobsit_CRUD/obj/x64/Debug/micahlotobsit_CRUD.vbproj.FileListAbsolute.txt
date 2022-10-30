@@ -1,0 +1,10 @@
+c:\users\micah\documents\visual studio 2013\Projects\micahlotobsit_CRUD\micahlotobsit_CRUD\bin\x64\Debug\micahlotobsit_CRUD.exe.config
+c:\users\micah\documents\visual studio 2013\Projects\micahlotobsit_CRUD\micahlotobsit_CRUD\bin\x64\Debug\micahlotobsit_CRUD.exe
+c:\users\micah\documents\visual studio 2013\Projects\micahlotobsit_CRUD\micahlotobsit_CRUD\bin\x64\Debug\micahlotobsit_CRUD.pdb
+c:\users\micah\documents\visual studio 2013\Projects\micahlotobsit_CRUD\micahlotobsit_CRUD\bin\x64\Debug\micahlotobsit_CRUD.xml
+c:\users\micah\documents\visual studio 2013\Projects\micahlotobsit_CRUD\micahlotobsit_CRUD\obj\x64\Debug\micahlotobsit_CRUD.Form1.resources
+c:\users\micah\documents\visual studio 2013\Projects\micahlotobsit_CRUD\micahlotobsit_CRUD\obj\x64\Debug\micahlotobsit_CRUD.Resources.resources
+c:\users\micah\documents\visual studio 2013\Projects\micahlotobsit_CRUD\micahlotobsit_CRUD\obj\x64\Debug\micahlotobsit_CRUD.vbproj.GenerateResource.Cache
+c:\users\micah\documents\visual studio 2013\Projects\micahlotobsit_CRUD\micahlotobsit_CRUD\obj\x64\Debug\micahlotobsit_CRUD.exe
+c:\users\micah\documents\visual studio 2013\Projects\micahlotobsit_CRUD\micahlotobsit_CRUD\obj\x64\Debug\micahlotobsit_CRUD.xml
+c:\users\micah\documents\visual studio 2013\Projects\micahlotobsit_CRUD\micahlotobsit_CRUD\obj\x64\Debug\micahlotobsit_CRUD.pdb
