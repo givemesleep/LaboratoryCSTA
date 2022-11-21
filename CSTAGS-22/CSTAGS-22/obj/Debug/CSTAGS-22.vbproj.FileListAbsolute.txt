@@ -1,0 +1,9 @@
+c:\users\harold\documents\visual studio 2010\Projects\CSTAGS-22\CSTAGS-22\bin\Debug\CSTAGS-22.exe
+c:\users\harold\documents\visual studio 2010\Projects\CSTAGS-22\CSTAGS-22\bin\Debug\CSTAGS-22.pdb
+c:\users\harold\documents\visual studio 2010\Projects\CSTAGS-22\CSTAGS-22\bin\Debug\CSTAGS-22.xml
+c:\users\harold\documents\visual studio 2010\Projects\CSTAGS-22\CSTAGS-22\obj\Debug\CSTAGS_22.frmSubjects.resources
+c:\users\harold\documents\visual studio 2010\Projects\CSTAGS-22\CSTAGS-22\obj\Debug\CSTAGS_22.Resources.resources
+c:\users\harold\documents\visual studio 2010\Projects\CSTAGS-22\CSTAGS-22\obj\Debug\CSTAGS-22.vbproj.GenerateResource.Cache
+c:\users\harold\documents\visual studio 2010\Projects\CSTAGS-22\CSTAGS-22\obj\Debug\CSTAGS-22.exe
+c:\users\harold\documents\visual studio 2010\Projects\CSTAGS-22\CSTAGS-22\obj\Debug\CSTAGS-22.xml
+c:\users\harold\documents\visual studio 2010\Projects\CSTAGS-22\CSTAGS-22\obj\Debug\CSTAGS-22.pdb
